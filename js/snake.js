@@ -19,7 +19,7 @@ var myUserId;
 var myUserName;
 
 //Defaults
-var GO_SNAKE_APP_URL = 'https://goinstant.net/NinjaOtter/NodeKnockout';
+var GO_SNAKE_APP_URL = 'https://platform-staging.goinstant.org/lgtml/snake';
 var INITIAL_SNAKE_LENGTH = 5;
 var INITIAL_SCORE = 0;
 var BLOCK_SIZE = 10;
