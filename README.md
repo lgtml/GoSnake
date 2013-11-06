@@ -1,6 +1,6 @@
 # GoSnake
 
-## [**Try it out**](http://piwh1000.github.io/GoSnake)
+## [**Try it out**](http://lgtml.github.io/GoSnake)
 
 To show you how easy it is to create a multi-user experience for any app, we created a simple snake game using GoInstant.
 The objective in Snake is pretty simple--you control a snake on the screen and try to eat as much food as possible without
